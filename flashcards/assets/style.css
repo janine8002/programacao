@@ -6,9 +6,9 @@ footer {
     color: mediumpurple;
     position:fixed;
     bottom: 0;
-    width: 100;
+    width: 100%;
 }
 footer p {
     text-align: center;
-    font-size: 0.6;
+    font-size: 0.6rem;
 }
